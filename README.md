@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👩🏼‍💻 I am studying areas of cybersecurity and containerization, feel free to give me some tips...
 - 💬 Ask me about network and data communication topics, maybe I can help you!
 - 📨 How to reach me: isadora.bp.rodrigues@gmail.com
-- 🎯 My LinkedIn: <a href="www.linkedin.com/in/isadora-bello">Isadora Rodrigues</a>
+- 🎯 My LinkedIn: <a href="https://www.linkedin.com/in/isadora-bello/">Isadora Rodrigues</a>
